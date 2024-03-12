@@ -1,0 +1,26 @@
+{
+  "name": "av_track",
+  "version": "1.0.0",
+  "description": "Average_Track simplifies the process of tracking and computing averages, offering streamlined solutions for mean calculation tasks, ensuring accuracy and efficiency in your operations.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "av_track": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliazihha400/av_track.git"
+  },
+  "homepage": "https://github.com/aliazihha400/av_track/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "aliazihha400",
+  "license": "MIT"
+}
